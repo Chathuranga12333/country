@@ -1,0 +1,32 @@
+th{
+    font-size: 30px;
+    color: white;
+    margin-left: 10%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 7px;
+    border: 2px solid wheat;
+
+}
+body{
+    background-color: rgb(126, 126, 126);
+    color: white;
+    font-size: 20px;
+}
+div{
+    background-color:black ;
+    width: 45%;
+}
+span{
+    color: red;
+}
+td{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 1s;
+}
+td:hover{
+    font-size: 60px;
+}
+.form-control{
+    width: 50%;
+}
